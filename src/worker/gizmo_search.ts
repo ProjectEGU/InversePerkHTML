@@ -25,15 +25,18 @@ interface CalcConfig {
     SanityChecks: boolean
 }
 
-const _searchConfig: CalcConfig = {
+const _getDefaultSearchConfig: () => CalcConfig = (() => ({
     TopConfigurationCount: 30,
     UndesiredPerks: new Set(),
     ExcludeMaterials: new Set(),
     QuantityLimit: 1250, // 7500 // 500
-    ArrangementLimitPerQuantity: 200,
+    ArrangementLimitPerQuantity: 50, // 200
     AllowAnySecondPerk: false,
     SanityChecks: true
-}
+}));
+
+
+let _searchConfig: CalcConfig = _getDefaultSearchConfig();
 
 class PerkRank {
     name: string;
@@ -574,6 +577,9 @@ export function getGizmoResults(useAncientGizmo, gizmoType, perkName1, perkRank1
     perkName2?, perkRank2?,
     undesiredPerks?, excludeMaterials?, progressReportFn?: (number) => void): GizmoResult[] {
     console.log('[getGizmoResults]', JSON.stringify(arguments));
+
+    _searchConfig = _getDefaultSearchConfig();
+    
     if (perkName2 === ANY_PERK) {
         perkName2 = null;
         perkRank2 = null;
@@ -733,8 +739,8 @@ export function getGizmoResults(useAncientGizmo, gizmoType, perkName1, perkRank1
  * FIX two
  * {"0":false,"1":"weapon","2":"Looting","3":1,
  * "4":"","6":
- * ["Demon Bait","Fatiguing","Cautious","Dragon Bait","Committed","Profane","Inaccurate","Blunted","Junk food","Confused"],"7":[]} 
- * 
+ * ["Demon Bait","Fatiguing","Cautious","Dragon Bait","Committed","Profane","Inaccurate","Blunted","Junk food","Confused"],"7":[]}
+ *
  */
 // _searchConfig.TopConfigurationCount = 3;
 // _searchConfig.QuantityLimit = 3;
@@ -742,11 +748,18 @@ export function getGizmoResults(useAncientGizmo, gizmoType, perkName1, perkRank1
 
 
 // console.time('calculation');
-// const negativePerks = ["Demon Bait", "Fatiguing", "Cautious", "Dragon Bait", "Committed", "Profane", "Inaccurate", "Blunted", "Junk food", "Confused"];
+// const negativePerks = ["Demon Bait", "Fatiguing", "Cautious", "Dragon Bait", "Committed", "Profane", "Inaccurate", "Blunted", "Junk food", "Confused", "Antitheism"];
 // // let allResults = getGizmoResults(false, GizmoType.Armour, 'Scavenging', 3, ANY_PERK, 0, [], [], console.log);
 // // let allResults = getGizmoResults(false, GizmoType.Armour, 'Looting', 1, ANY_PERK, 0, [], [], undefined);
 // // let allResults = getGizmoResults(true, 'weapon', 'Aftershock', 4, 'Scavenging', 2, negativePerks, [], undefined);
-// // let allResults = getGizmoResults(false, 'weapon', 'Looting', 1, NO_PERK, '', negativePerks, []);
-// let allResults = getGizmoResults(true, 'weapon', 'Equilibrium', 4, 'Scavenging', 1, negativePerks, [], undefined);
+// let allResults = getGizmoResults(false, 'weapon', 'Looting', 1, NO_PERK, undefined, negativePerks, []);
+// // let allResults = getGizmoResults(true, 'weapon', 'Equilibrium', 4, 'Scavenging', 1, negativePerks, [], undefined);
 // console.log(allResults);
 // console.timeEnd('calculation');
+
+/**
+ *
+ * {"0":false,"1":"weapon","2":"Looting","3":1,"4":"","6":["Demon Bait","Fatiguing","Cautious","Dragon Bait","Committed","Profane","Inaccurate","Blunted","Junk food","Confused","Antitheism"],"7":[]}
+ * {"0":false,"1":"weapon","2":"Looting","3":1,"4":"","6":["Demon Bait","Fatiguing","Cautious","Dragon Bait","Committed","Profane","Inaccurate","Blunted","Junk food","Confused","Antitheism"],"7":[]}
+ *
+ */

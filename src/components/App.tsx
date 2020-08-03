@@ -92,8 +92,11 @@ interface AppState {
  * 
  * [x] hide ancient only perks on regular gizmo mode, or render it unselectable
  * [ ] don't show rank button on perks with 1 rank
- * [ ] display gizmo type
- * [ ] display perk graphics and gizmo graphics
+ * [x] display gizmo type
+ * [x] display perk graphics and gizmo graphics
+ * 
+ * [ ] to counter low lvl perks with many possible combos: prioritize the lowest/cheapest material
+ * quantities first, and terminate the search upon finding enough 100% gizmos
  */
 
 class App extends React.Component<{}, AppState> {
