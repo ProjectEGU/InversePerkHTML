@@ -54,13 +54,13 @@ interface AppState {
  * Append 'dummy objects' for each perk and hijack the search function to show the dummy perks when their
  * regular counterpart is in the selection.
  * Then when on selection of a dummy perk, change the corresponding rank.
- * [ ]Or alternatively, inject a dummy item with a search hijack
+ * [ ] Or alternatively, inject a dummy item with a search hijack
  * [x] rank selection
  * 
  * [x] prog bar
  * [x] error msg
  * [ ] display no results message
- * [ ] display perks in order of desirability
+ * [ ] display dropdown perks in order of desirability
  * [ ] label on hover components
  * [ ] 1/x display of success chance
  * [ ] display of noEffectChance (?)
@@ -76,7 +76,7 @@ interface AppState {
  * [ ] add a github source code button
  * [ ] add time taken, and a timer somewhere
  * 
- * [ ] reorganize codes, put invention budget generation code into gss_utils.ts and rename to inventionBudgetUtils
+ * [x] reorganize codes, put invention budget generation code into gss_utils.ts and rename to inventionBudgetUtils
  * 
  * [x] open in rswiki button, align to bottom
  * [x] gizmo type label, larger depending on screen size
@@ -95,6 +95,8 @@ interface AppState {
  * [x] display gizmo type
  * [x] display perk graphics and gizmo graphics
  * 
+ * [ ] interface to exclude perks or materials, can make use of dropdown+labels method, as well as directly add from results
+ * [ ] show other perk possibilities on result gizmos (not as necessary, since you can open rswiki calc anyway)
  * [ ] to counter low lvl perks with many possible combos: prioritize the lowest/cheapest material
  * quantities first, and terminate the search upon finding enough 100% gizmos
  */
@@ -583,7 +585,7 @@ class App extends React.Component<{}, AppState> {
                             <div>
                                 <Progress
                                     percent={this.state.calcProgress}
-                                    label={this.state.calcComplete ? "Complete!" : "Calculating..."}
+                                    label={this.state.calcComplete ? (this.state.searchGizmoResults.length ? "Complete!" : "This gizmo is impossible to make.") : "Calculating..."}
                                     progress='percent' active={!this.state.calcComplete} />
                                 <Divider /></div>
                         )}
