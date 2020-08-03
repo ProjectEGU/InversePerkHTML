@@ -59,7 +59,7 @@ interface AppState {
  * 
  * [x] prog bar
  * [x] error msg
- * [ ] display no results message
+ * [x] display no results message
  * [ ] display dropdown perks in order of desirability
  * [ ] label on hover components
  * [ ] 1/x display of success chance
@@ -99,6 +99,8 @@ interface AppState {
  * [ ] show other perk possibilities on result gizmos (not as necessary, since you can open rswiki calc anyway)
  * [ ] to counter low lvl perks with many possible combos: prioritize the lowest/cheapest material
  * quantities first, and terminate the search upon finding enough 100% gizmos
+ * 
+ * [ ] (?) offer to upgrade to ancient gizmo if a gizmo is impossible to make 
  */
 
 class App extends React.Component<{}, AppState> {
@@ -256,6 +258,12 @@ class App extends React.Component<{}, AppState> {
                 sPN.push(ANY_PERK);
             else
                 sPN.push(NO_PERK);
+        } else { // 2 perks selected
+            if (CalcData.perkInfo[sPN[0]].twoSlot || CalcData.perkInfo[sPN[1]].twoSlot) {
+                let warningPerkName = CalcData.perkInfo[sPN[0]].twoSlot ? sPN[0] : sPN[1];
+                this.setState({ warningShown: true, warningMsg: `${warningPerkName} is a double-slot perk, and cannot be combined with another perk in the same gizmo.` })
+                return;
+            }
         }
 
         this.setState({
@@ -406,25 +414,25 @@ class App extends React.Component<{}, AppState> {
                         let wikiLink = 'https://runescape.wiki/w/Calculator:Perks?';
                         let amp = false;
                         if (gizmoResult.materialsArrangement[5])
-                            wikiLink += `${amp ? '&' : (amp=true, '')}top-left=${gizmoResult.materialsArrangement[5].replace(' ', '+')}`;
+                            wikiLink += `${amp ? '&' : (amp = true, '')}top-left=${gizmoResult.materialsArrangement[5].replace(' ', '+')}`;
                         if (gizmoResult.materialsArrangement[1])
-                            wikiLink += `${amp ? '&' : (amp=true, '')}top=${gizmoResult.materialsArrangement[1].replace(' ', '+')}`;
+                            wikiLink += `${amp ? '&' : (amp = true, '')}top=${gizmoResult.materialsArrangement[1].replace(' ', '+')}`;
                         if (gizmoResult.materialsArrangement[6])
-                            wikiLink += `${amp ? '&' : (amp=true, '')}top-right=${gizmoResult.materialsArrangement[6].replace(' ', '+')}`;
+                            wikiLink += `${amp ? '&' : (amp = true, '')}top-right=${gizmoResult.materialsArrangement[6].replace(' ', '+')}`;
 
                         if (gizmoResult.materialsArrangement[2])
-                            wikiLink += `${amp ? '&' : (amp=true, '')}left=${gizmoResult.materialsArrangement[2].replace(' ', '+')}`;
+                            wikiLink += `${amp ? '&' : (amp = true, '')}left=${gizmoResult.materialsArrangement[2].replace(' ', '+')}`;
                         if (gizmoResult.materialsArrangement[0])
-                            wikiLink += `${amp ? '&' : (amp=true, '')}middle=${gizmoResult.materialsArrangement[0].replace(' ', '+')}`;
+                            wikiLink += `${amp ? '&' : (amp = true, '')}middle=${gizmoResult.materialsArrangement[0].replace(' ', '+')}`;
                         if (gizmoResult.materialsArrangement[3])
-                            wikiLink += `${amp ? '&' : (amp=true, '')}right=${gizmoResult.materialsArrangement[3].replace(' ', '+')}`;
+                            wikiLink += `${amp ? '&' : (amp = true, '')}right=${gizmoResult.materialsArrangement[3].replace(' ', '+')}`;
 
                         if (gizmoResult.materialsArrangement[7])
-                            wikiLink += `${amp ? '&' : (amp=true, '')}bottom-left=${gizmoResult.materialsArrangement[7].replace(' ', '+')}`;
+                            wikiLink += `${amp ? '&' : (amp = true, '')}bottom-left=${gizmoResult.materialsArrangement[7].replace(' ', '+')}`;
                         if (gizmoResult.materialsArrangement[4])
-                            wikiLink += `${amp ? '&' : (amp=true, '')}bottom=${gizmoResult.materialsArrangement[4].replace(' ', '+')}`;
+                            wikiLink += `${amp ? '&' : (amp = true, '')}bottom=${gizmoResult.materialsArrangement[4].replace(' ', '+')}`;
                         if (gizmoResult.materialsArrangement[8])
-                            wikiLink += `${amp ? '&' : (amp=true, '')}bottom-right=${gizmoResult.materialsArrangement[8].replace(' ', '+')}`;
+                            wikiLink += `${amp ? '&' : (amp = true, '')}bottom-right=${gizmoResult.materialsArrangement[8].replace(' ', '+')}`;
 
                         if (this.state.searchGizmoType === GizmoType.Armour)
                             wikiLink += `&type=Armour`;
@@ -518,8 +526,11 @@ class App extends React.Component<{}, AppState> {
                             checked={gizmoType === GizmoType.Tool}
                             onChange={this.handleChangeGizmoType}
                         />
-                        <Form.Checkbox
-                            label='Ancient'
+                    </Form.Group>
+                    <Form.Group inline>
+                    <label>Gizmo Tier &nbsp;</label>
+                    <Form.Checkbox
+                            label='Ancient Gizmo Shell'
                             checked={ancientGizmo}
                             onChange={this.handleChangeGizmoTier}
                         />
@@ -585,7 +596,7 @@ class App extends React.Component<{}, AppState> {
                             <div>
                                 <Progress
                                     percent={this.state.calcProgress}
-                                    label={this.state.calcComplete ? (this.state.searchGizmoResults.length ? "Complete!" : "This gizmo is impossible to make.") : "Calculating..."}
+                                    label={this.state.calcComplete ? (this.state.searchGizmoResults.length ? "Complete!" : "That gizmo is impossible to make.") : "Calculating..."}
                                     progress='percent' active={!this.state.calcComplete} />
                                 <Divider /></div>
                         )}
