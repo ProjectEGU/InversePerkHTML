@@ -1,0 +1,6454 @@
+{
+    "perkToComp": {
+        "tool": {
+            "Antitheism": [
+                "Precious components",
+                "Blade parts",
+                "Magic parts",
+                "Simple parts",
+                "Spiritual parts",
+                "Base parts",
+                "Ethereal components",
+                "Metallic parts"
+            ],
+            "Cautious": [
+                "Precise components",
+                "Evasive components",
+                "Direct components",
+                "Refined components",
+                "Flexible parts",
+                "Spiritual parts",
+                "Clear parts"
+            ],
+            "Honed": [
+                "Precise components",
+                "Blade parts",
+                "Magic parts",
+                "Sharp components",
+                "Silent components"
+            ],
+            "Enlightened": [
+                "Pious components",
+                "Spiritual parts",
+                "Seren components"
+            ],
+            "Hoarding": [
+                "Pious components",
+                "Refined components",
+                "Spiritual parts",
+                "Protective components",
+                "Fortunate components",
+                "Tensile parts"
+            ],
+            "Wise": [
+                "Pious components",
+                "Flexible parts",
+                "Spiritual parts",
+                "Ethereal components",
+                "Seren components"
+            ],
+            "Charitable": [
+                "Pious components",
+                "Direct components",
+                "Armadyl components",
+                "Base parts",
+                "Delicate parts"
+            ],
+            "Prosper": [
+                "Evasive components",
+                "Third-age components",
+                "Stave parts",
+                "Timeworn components"
+            ],
+            "Imp Souled": [
+                "Deflecting parts",
+                "Swift components",
+                "Historic components",
+                "Zaros components",
+                "Zamorak components"
+            ],
+            "Pyromaniac": [
+                "Direct components",
+                "Light components",
+                "Organic parts",
+                "Explosive components"
+            ],
+            "Committed": [
+                "Refined components",
+                "Heavy components",
+                "Plated parts",
+                "Healthy components",
+                "Strong components",
+                "Stave parts",
+                "Spiked parts"
+            ],
+            "Refined": [
+                "Refined components",
+                "Resilient components",
+                "Enhancing components",
+                "Smooth parts"
+            ],
+            "Cheapskate": [
+                "Enhancing components",
+                "Smooth parts",
+                "Crystal parts",
+                "Variable components"
+            ],
+            "Rapid": [
+                "Enhancing components",
+                "Light components",
+                "Shifting components",
+                "Stave parts"
+            ],
+            "Hallucinogenic": [
+                "Simple parts",
+                "Light components",
+                "Clear parts",
+                "Brassican components",
+                "Crafted parts"
+            ],
+            "Talking": [
+                "Simple parts",
+                "Base parts",
+                "Living components",
+                "Organic parts",
+                "Head parts",
+                "Brassican components"
+            ],
+            "Polishing": [
+                "Oceanic components",
+                "Protective components",
+                "Fortunate components",
+                "Dextrous components",
+                "Padded parts"
+            ],
+            "Tinker": [
+                "Fungal components",
+                "Clockwork components",
+                "Delicate parts"
+            ],
+            "Butterfingers": [
+                "Heavy components",
+                "Dextrous components",
+                "Padded parts",
+                "Delicate parts",
+                "Tensile parts"
+            ],
+            "Breakdown": [
+                "Heavy components",
+                "Undead components",
+                "Padded parts"
+            ],
+            "Confused": [
+                "Cover parts",
+                "Subtle components",
+                "Stunning components",
+                "Metallic parts"
+            ],
+            "Furnace": [
+                "Cover parts",
+                "Sharp components",
+                "Imbued components",
+                "Vintage components",
+                "Dragonfire components",
+                "Classic components"
+            ],
+            "Glow Worm": [
+                "Light components",
+                "Clear parts",
+                "Stave parts"
+            ],
+            "Efficient": [
+                "Healthy components",
+                "Ascended components",
+                "Crystal parts",
+                "Shifting components",
+                "Classic components"
+            ],
+            "Brassican": [
+                "Fortunate components",
+                "Brassican components"
+            ],
+            "Fortune": [
+                "Vintage components",
+                "Timeworn components",
+                "Classic components"
+            ],
+            "Enhanced Efficient": [
+                "Ascended components",
+                "Variable components",
+                "Clockwork components",
+                "Delicate parts"
+            ],
+            "Fatiguing": [
+                "Strong components",
+                "Stave parts",
+                "Stunning components",
+                "Spiked parts",
+                "Crafted parts"
+            ],
+            "Mysterious": [
+                "Stunning components",
+                "Tensile parts"
+            ]
+        },
+        "weapon": {
+            "Looting": [
+                "Precious components",
+                "Simple parts",
+                "Historic components",
+                "Subtle components",
+                "Fortunate components"
+            ],
+            "Antitheism": [
+                "Precious components",
+                "Blade parts",
+                "Magic parts",
+                "Simple parts",
+                "Spiritual parts",
+                "Base parts",
+                "Ethereal components",
+                "Metallic parts"
+            ],
+            "Scavenging": [
+                "Precious components",
+                "Smooth parts",
+                "Connector parts",
+                "Classic components"
+            ],
+            "Spendthrift": [
+                "Precious components",
+                "Magic parts",
+                "Saradomin components",
+                "Fortunate components"
+            ],
+            "Cautious": [
+                "Precise components",
+                "Evasive components",
+                "Direct components",
+                "Refined components",
+                "Flexible parts",
+                "Spiritual parts",
+                "Clear parts"
+            ],
+            "Blunted": [
+                "Precise components",
+                "Evasive components",
+                "Direct components",
+                "Plated parts",
+                "Swift components",
+                "Smooth parts",
+                "Powerful components",
+                "Tensile parts"
+            ],
+            "Equilibrium": [
+                "Precise components",
+                "Smooth parts",
+                "Timeworn components",
+                "Delicate parts",
+                "Rumbling components"
+            ],
+            "Precise": [
+                "Precise components",
+                "Armadyl components",
+                "Historic components",
+                "Connector parts"
+            ],
+            "Flanking": [
+                "Precise components",
+                "Sharp components",
+                "Clockwork components",
+                "Spiked parts"
+            ],
+            "Enlightened": [
+                "Pious components",
+                "Spiritual parts",
+                "Seren components"
+            ],
+            "Hoarding": [
+                "Pious components",
+                "Refined components",
+                "Spiritual parts",
+                "Protective components",
+                "Fortunate components",
+                "Tensile parts"
+            ],
+            "Wise": [
+                "Pious components",
+                "Flexible parts",
+                "Spiritual parts",
+                "Ethereal components",
+                "Seren components"
+            ],
+            "Dragon Bait": [
+                "Pious components",
+                "Refined components",
+                "Flexible parts",
+                "Sharp components",
+                "Dextrous components",
+                "Connector parts"
+            ],
+            "Mediocrity": [
+                "Pious components",
+                "Deflecting parts",
+                "Organic parts",
+                "Head parts",
+                "Stunning components",
+                "Crafted parts",
+                "Metallic parts"
+            ],
+            "Biting": [
+                "Blade parts",
+                "Direct components",
+                "Noxious components"
+            ],
+            "Junk Food": [
+                "Blade parts",
+                "Imbued components",
+                "Spiked parts",
+                "Delicate parts"
+            ],
+            "Undead Bait": [
+                "Magic parts",
+                "Smooth parts",
+                "Stave parts",
+                "Connector parts"
+            ],
+            "Crackling": [
+                "Magic parts",
+                "Imbued components",
+                "Vintage components",
+                "Explosive components"
+            ],
+            "Ultimatums": [
+                "Magic parts",
+                "Imbued components",
+                "Historic components",
+                "Shifting components",
+                "Explosive components"
+            ],
+            "Energising": [
+                "Magic parts",
+                "Refined components",
+                "Enhancing components",
+                "Smooth parts",
+                "Imbued components",
+                "Stave parts"
+            ],
+            "Shield Bashing": [
+                "Deflecting parts",
+                "Cover parts",
+                "Swift components",
+                "Protective components"
+            ],
+            "Inaccurate": [
+                "Deflecting parts",
+                "Refined components",
+                "Enhancing components",
+                "Spiritual parts",
+                "Light components",
+                "Base parts",
+                "Healthy components",
+                "Organic parts",
+                "Head parts"
+            ],
+            "Caroming": [
+                "Shadow components"
+            ],
+            "Committed": [
+                "Refined components",
+                "Heavy components",
+                "Plated parts",
+                "Healthy components",
+                "Strong components",
+                "Stave parts",
+                "Spiked parts"
+            ],
+            "Demon Bait": [
+                "Refined components",
+                "Heavy components",
+                "Protective components",
+                "Subtle components",
+                "Crystal parts",
+                "Variable components",
+                "Padded parts",
+                "Delicate parts"
+            ],
+            "Dragon Slayer": [
+                "Enhancing components",
+                "Base parts",
+                "Dragonfire components"
+            ],
+            "Invigorating": [
+                "Enhancing components",
+                "Oceanic components",
+                "Swift components",
+                "Culinary components",
+                "Organic parts"
+            ],
+            "Aftershock": [
+                "Ilujankan components"
+            ],
+            "Hallucinogenic": [
+                "Simple parts",
+                "Light components",
+                "Clear parts",
+                "Brassican components",
+                "Crafted parts"
+            ],
+            "Talking": [
+                "Simple parts",
+                "Base parts",
+                "Living components",
+                "Organic parts",
+                "Head parts",
+                "Brassican components"
+            ],
+            "Mobile": [
+                "Flexible parts",
+                "Subtle components",
+                "Dextrous components",
+                "Connector parts"
+            ],
+            "Clear Headed": [
+                "Flexible parts",
+                "Variable components",
+                "Head parts",
+                "Stunning components"
+            ],
+            "Demon Slayer": [
+                "Third-age components",
+                "Clear parts",
+                "Dextrous components"
+            ],
+            "Planted Feet": [
+                "Cywir components"
+            ],
+            "Glow Worm": [
+                "Light components",
+                "Clear parts",
+                "Stave parts"
+            ],
+            "Efficient": [
+                "Healthy components",
+                "Ascended components",
+                "Crystal parts",
+                "Shifting components",
+                "Classic components"
+            ],
+            "Taunting": [
+                "Knightly components",
+                "Sharp components",
+                "Spiked parts"
+            ],
+            "Genocidal": [
+                "Historic components",
+                "Bandos components",
+                "Powerful components",
+                "Undead components",
+                "Spiked parts"
+            ],
+            "Brassican": [
+                "Fortunate components",
+                "Brassican components"
+            ],
+            "Relentless": [
+                "Vintage components"
+            ],
+            "Undead Slayer": [
+                "Living components",
+                "Crystal parts",
+                "Undead components"
+            ],
+            "Enhanced Efficient": [
+                "Ascended components",
+                "Variable components",
+                "Clockwork components",
+                "Delicate parts"
+            ],
+            "Trophy-taker's": [
+                "Crystal parts",
+                "Powerful components",
+                "Variable components",
+                "Spiked parts"
+            ],
+            "Fatiguing": [
+                "Strong components",
+                "Stave parts",
+                "Stunning components",
+                "Spiked parts",
+                "Crafted parts"
+            ],
+            "Lunging": [
+                "Avernic components"
+            ],
+            "Impatient": [
+                "Zaros components",
+                "Zamorak components"
+            ],
+            "Mysterious": [
+                "Stunning components",
+                "Tensile parts"
+            ],
+            "Ruthless": [
+                "Timeworn components"
+            ]
+        },
+        "armour": {
+            "Looting": [
+                "Precious components",
+                "Simple parts",
+                "Historic components",
+                "Subtle components",
+                "Fortunate components"
+            ],
+            "Antitheism": [
+                "Precious components",
+                "Blade parts",
+                "Magic parts",
+                "Simple parts",
+                "Spiritual parts",
+                "Base parts",
+                "Ethereal components",
+                "Metallic parts"
+            ],
+            "Scavenging": [
+                "Precious components",
+                "Smooth parts",
+                "Connector parts",
+                "Classic components"
+            ],
+            "Cautious": [
+                "Precise components",
+                "Evasive components",
+                "Direct components",
+                "Refined components",
+                "Flexible parts",
+                "Spiritual parts",
+                "Clear parts"
+            ],
+            "Enlightened": [
+                "Pious components",
+                "Spiritual parts",
+                "Seren components"
+            ],
+            "Hoarding": [
+                "Pious components",
+                "Refined components",
+                "Spiritual parts",
+                "Protective components",
+                "Fortunate components",
+                "Tensile parts"
+            ],
+            "Wise": [
+                "Pious components",
+                "Flexible parts",
+                "Spiritual parts",
+                "Ethereal components",
+                "Seren components"
+            ],
+            "Dragon Bait": [
+                "Pious components",
+                "Refined components",
+                "Flexible parts",
+                "Sharp components",
+                "Dextrous components",
+                "Connector parts"
+            ],
+            "Turtling": [
+                "Evasive components",
+                "Base parts",
+                "Historic components",
+                "Crystal parts"
+            ],
+            "Venomblood": [
+                "Evasive components",
+                "Deflecting parts",
+                "Healthy components",
+                "Pestiferous components"
+            ],
+            "Biting": [
+                "Blade parts",
+                "Direct components",
+                "Noxious components"
+            ],
+            "Junk Food": [
+                "Blade parts",
+                "Imbued components",
+                "Spiked parts",
+                "Delicate parts"
+            ],
+            "Undead Bait": [
+                "Magic parts",
+                "Smooth parts",
+                "Stave parts",
+                "Connector parts"
+            ],
+            "Crackling": [
+                "Magic parts",
+                "Imbued components",
+                "Vintage components",
+                "Explosive components"
+            ],
+            "Ultimatums": [
+                "Magic parts",
+                "Imbued components",
+                "Historic components",
+                "Shifting components",
+                "Explosive components"
+            ],
+            "Energising": [
+                "Magic parts",
+                "Refined components",
+                "Enhancing components",
+                "Smooth parts",
+                "Imbued components",
+                "Stave parts"
+            ],
+            "Shield Bashing": [
+                "Deflecting parts",
+                "Cover parts",
+                "Swift components",
+                "Protective components"
+            ],
+            "Committed": [
+                "Refined components",
+                "Heavy components",
+                "Plated parts",
+                "Healthy components",
+                "Strong components",
+                "Stave parts",
+                "Spiked parts"
+            ],
+            "Demon Bait": [
+                "Refined components",
+                "Heavy components",
+                "Protective components",
+                "Subtle components",
+                "Crystal parts",
+                "Variable components",
+                "Padded parts",
+                "Delicate parts"
+            ],
+            "Brief Respite": [
+                "Refined components",
+                "Ethereal components",
+                "Culinary components",
+                "Corporeal components",
+                "Organic parts"
+            ],
+            "Bulwark": [
+                "Resilient components",
+                "Heavy components",
+                "Cover parts",
+                "Powerful components",
+                "Metallic parts"
+            ],
+            "Dragon Slayer": [
+                "Enhancing components",
+                "Base parts",
+                "Dragonfire components"
+            ],
+            "Invigorating": [
+                "Enhancing components",
+                "Oceanic components",
+                "Swift components",
+                "Culinary components",
+                "Organic parts"
+            ],
+            "Hallucinogenic": [
+                "Simple parts",
+                "Light components",
+                "Clear parts",
+                "Brassican components",
+                "Crafted parts"
+            ],
+            "Talking": [
+                "Simple parts",
+                "Base parts",
+                "Living components",
+                "Organic parts",
+                "Head parts",
+                "Brassican components"
+            ],
+            "Profane": [
+                "Simple parts",
+                "Flexible parts",
+                "Cover parts",
+                "Clear parts",
+                "Living components",
+                "Crystal parts",
+                "Padded parts",
+                "Tensile parts"
+            ],
+            "Absorbative": [
+                "Fungal components",
+                "Plated parts",
+                "Strong components",
+                "Padded parts"
+            ],
+            "Preparation": [
+                "Heavy components",
+                "Harnessed components",
+                "Crafted parts",
+                "Metallic parts"
+            ],
+            "Devoted": [
+                "Armadyl components",
+                "Saradomin components",
+                "Bandos components",
+                "Zamorak components"
+            ],
+            "Mobile": [
+                "Flexible parts",
+                "Subtle components",
+                "Dextrous components",
+                "Connector parts"
+            ],
+            "Clear Headed": [
+                "Flexible parts",
+                "Variable components",
+                "Head parts",
+                "Stunning components"
+            ],
+            "Demon Slayer": [
+                "Third-age components",
+                "Clear parts",
+                "Dextrous components"
+            ],
+            "Glow Worm": [
+                "Light components",
+                "Clear parts",
+                "Stave parts"
+            ],
+            "Lucky": [
+                "Light components",
+                "Fortunate components",
+                "Silent components",
+                "Delicate parts"
+            ],
+            "Crystal Shield": [
+                "Clear parts",
+                "Subtle components",
+                "Faceted components"
+            ],
+            "Efficient": [
+                "Healthy components",
+                "Ascended components",
+                "Crystal parts",
+                "Shifting components",
+                "Classic components"
+            ],
+            "Reflexes": [
+                "Smooth parts",
+                "Dextrous components",
+                "Harnessed components"
+            ],
+            "Taunting": [
+                "Knightly components",
+                "Sharp components",
+                "Spiked parts"
+            ],
+            "Genocidal": [
+                "Historic components",
+                "Bandos components",
+                "Powerful components",
+                "Undead components",
+                "Spiked parts"
+            ],
+            "Brassican": [
+                "Fortunate components",
+                "Brassican components"
+            ],
+            "Relentless": [
+                "Vintage components"
+            ],
+            "Undead Slayer": [
+                "Living components",
+                "Crystal parts",
+                "Undead components"
+            ],
+            "Enhanced Efficient": [
+                "Ascended components",
+                "Variable components",
+                "Clockwork components",
+                "Delicate parts"
+            ],
+            "Trophy-taker's": [
+                "Crystal parts",
+                "Powerful components",
+                "Variable components",
+                "Spiked parts"
+            ],
+            "Enhanced Devoted": [
+                "Crystal parts",
+                "Strong components",
+                "Faceted components",
+                "Zaros components"
+            ],
+            "Fatiguing": [
+                "Strong components",
+                "Stave parts",
+                "Stunning components",
+                "Spiked parts",
+                "Crafted parts"
+            ],
+            "Impatient": [
+                "Zaros components",
+                "Zamorak components"
+            ],
+            "Mysterious": [
+                "Stunning components",
+                "Tensile parts"
+            ]
+        }
+    },
+    "compInfo": {
+        "Precious components": {
+            "tool": [
+                {
+                    "perk": "Antitheism",
+                    "base": 12,
+                    "roll": 45
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Looting",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Antitheism",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Scavenging",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Spendthrift",
+                    "base": 9,
+                    "roll": 32
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Looting",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Antitheism",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Scavenging",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "ancient": false
+        },
+        "Precise components": {
+            "tool": [
+                {
+                    "perk": "Cautious",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Honed",
+                    "base": 9,
+                    "roll": 32
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Cautious",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Blunted",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Equilibrium",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Precise",
+                    "base": 9,
+                    "roll": 32
+                },
+                {
+                    "perk": "Flanking",
+                    "base": 9,
+                    "roll": 32
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Cautious",
+                    "base": 12,
+                    "roll": 44
+                }
+            ],
+            "ancient": false
+        },
+        "Pious components": {
+            "tool": [
+                {
+                    "perk": "Enlightened",
+                    "base": 9,
+                    "roll": 32
+                },
+                {
+                    "perk": "Hoarding",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Wise",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Charitable",
+                    "base": 12,
+                    "roll": 44
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Enlightened",
+                    "base": 9,
+                    "roll": 32
+                },
+                {
+                    "perk": "Hoarding",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Wise",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Dragon Bait",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Mediocrity",
+                    "base": 12,
+                    "roll": 44
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Enlightened",
+                    "base": 9,
+                    "roll": 32
+                },
+                {
+                    "perk": "Hoarding",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Wise",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Dragon Bait",
+                    "base": 12,
+                    "roll": 45
+                }
+            ],
+            "ancient": false
+        },
+        "Evasive components": {
+            "tool": [
+                {
+                    "perk": "Cautious",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Prosper",
+                    "base": 12,
+                    "roll": 8
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Cautious",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Blunted",
+                    "base": 12,
+                    "roll": 45
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Cautious",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Turtling",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Venomblood",
+                    "base": 9,
+                    "roll": 33
+                }
+            ],
+            "ancient": false
+        },
+        "Blade parts": {
+            "tool": [
+                {
+                    "perk": "Antitheism",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Honed",
+                    "base": 7,
+                    "roll": 25
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Antitheism",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Biting",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Junk Food",
+                    "base": 8,
+                    "roll": 33
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Antitheism",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Biting",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Junk Food",
+                    "base": 8,
+                    "roll": 33
+                }
+            ],
+            "ancient": false
+        },
+        "Magic parts": {
+            "tool": [
+                {
+                    "perk": "Antitheism",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Honed",
+                    "base": 7,
+                    "roll": 27
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Antitheism",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Undead Bait",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Crackling",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Ultimatums",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Energising",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Spendthrift",
+                    "base": 5,
+                    "roll": 13
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Antitheism",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Undead Bait",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Crackling",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Ultimatums",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Energising",
+                    "base": 7,
+                    "roll": 27
+                }
+            ],
+            "ancient": false
+        },
+        "Deflecting parts": {
+            "tool": [
+                {
+                    "perk": "Imp Souled",
+                    "base": 7,
+                    "roll": 27
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Shield Bashing",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Inaccurate",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Mediocrity",
+                    "base": 8,
+                    "roll": 32
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Shield Bashing",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Venomblood",
+                    "base": 5,
+                    "roll": 15
+                }
+            ],
+            "ancient": false
+        },
+        "Direct components": {
+            "tool": [
+                {
+                    "perk": "Cautious",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Charitable",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Pyromaniac",
+                    "base": 9,
+                    "roll": 32
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Cautious",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Biting",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Blunted",
+                    "base": 12,
+                    "roll": 45
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Cautious",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Biting",
+                    "base": 9,
+                    "roll": 33
+                }
+            ],
+            "ancient": false
+        },
+        "Shadow components": {
+            "tool": [],
+            "weapon": [
+                {
+                    "perk": "Caroming",
+                    "base": 40,
+                    "roll": 8
+                }
+            ],
+            "armour": [],
+            "ancient": false
+        },
+        "Refined components": {
+            "tool": [
+                {
+                    "perk": "Hoarding",
+                    "base": 11,
+                    "roll": 25
+                },
+                {
+                    "perk": "Committed",
+                    "base": 11,
+                    "roll": 25
+                },
+                {
+                    "perk": "Cautious",
+                    "base": 11,
+                    "roll": 25
+                },
+                {
+                    "perk": "Refined",
+                    "base": 11,
+                    "roll": 25
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Hoarding",
+                    "base": 11,
+                    "roll": 25
+                },
+                {
+                    "perk": "Committed",
+                    "base": 11,
+                    "roll": 25
+                },
+                {
+                    "perk": "Cautious",
+                    "base": 11,
+                    "roll": 25
+                },
+                {
+                    "perk": "Dragon Bait",
+                    "base": 11,
+                    "roll": 25
+                },
+                {
+                    "perk": "Demon Bait",
+                    "base": 11,
+                    "roll": 25
+                },
+                {
+                    "perk": "Energising",
+                    "base": 11,
+                    "roll": 25
+                },
+                {
+                    "perk": "Inaccurate",
+                    "base": 11,
+                    "roll": 25
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Hoarding",
+                    "base": 11,
+                    "roll": 25
+                },
+                {
+                    "perk": "Committed",
+                    "base": 11,
+                    "roll": 25
+                },
+                {
+                    "perk": "Cautious",
+                    "base": 11,
+                    "roll": 25
+                },
+                {
+                    "perk": "Dragon Bait",
+                    "base": 11,
+                    "roll": 25
+                },
+                {
+                    "perk": "Demon Bait",
+                    "base": 11,
+                    "roll": 25
+                },
+                {
+                    "perk": "Energising",
+                    "base": 11,
+                    "roll": 25
+                },
+                {
+                    "perk": "Brief Respite",
+                    "base": 11,
+                    "roll": 25
+                }
+            ],
+            "ancient": false
+        },
+        "Resilient components": {
+            "tool": [
+                {
+                    "perk": "Refined",
+                    "base": 25,
+                    "roll": 28
+                }
+            ],
+            "weapon": [],
+            "armour": [
+                {
+                    "perk": "Bulwark",
+                    "base": 45,
+                    "roll": 8
+                }
+            ],
+            "ancient": false
+        },
+        "Enhancing components": {
+            "tool": [
+                {
+                    "perk": "Cheapskate",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Refined",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Rapid",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Dragon Slayer",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Invigorating",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Energising",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Inaccurate",
+                    "base": 12,
+                    "roll": 45
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Dragon Slayer",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Invigorating",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Energising",
+                    "base": 12,
+                    "roll": 44
+                }
+            ],
+            "ancient": false
+        },
+        "Ilujankan components": {
+            "tool": [],
+            "weapon": [
+                {
+                    "perk": "Aftershock",
+                    "base": 40,
+                    "roll": 8
+                }
+            ],
+            "armour": [],
+            "ancient": false
+        },
+        "Simple parts": {
+            "tool": [
+                {
+                    "perk": "Antitheism",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Hallucinogenic",
+                    "base": 7,
+                    "roll": 28
+                },
+                {
+                    "perk": "Talking",
+                    "base": 7,
+                    "roll": 27
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Looting",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Antitheism",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Hallucinogenic",
+                    "base": 7,
+                    "roll": 28
+                },
+                {
+                    "perk": "Talking",
+                    "base": 7,
+                    "roll": 27
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Looting",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Antitheism",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Hallucinogenic",
+                    "base": 7,
+                    "roll": 28
+                },
+                {
+                    "perk": "Talking",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Profane",
+                    "base": 8,
+                    "roll": 33
+                }
+            ],
+            "ancient": false
+        },
+        "Oceanic components": {
+            "tool": [
+                {
+                    "perk": "Polishing",
+                    "base": 25,
+                    "roll": 28
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Invigorating",
+                    "base": 45,
+                    "roll": 8
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Invigorating",
+                    "base": 45,
+                    "roll": 8
+                }
+            ],
+            "ancient": false
+        },
+        "Fungal components": {
+            "tool": [
+                {
+                    "perk": "Tinker",
+                    "base": 10,
+                    "roll": 28
+                }
+            ],
+            "weapon": [],
+            "armour": [
+                {
+                    "perk": "Absorbative",
+                    "base": 40,
+                    "roll": 8
+                }
+            ],
+            "ancient": false
+        },
+        "Heavy components": {
+            "tool": [
+                {
+                    "perk": "Committed",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Butterfingers",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Breakdown",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Committed",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Demon Bait",
+                    "base": 12,
+                    "roll": 45
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Committed",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Demon Bait",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Bulwark",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Preparation",
+                    "base": 9,
+                    "roll": 33
+                }
+            ],
+            "ancient": false
+        },
+        "Armadyl components": {
+            "tool": [
+                {
+                    "perk": "Charitable",
+                    "base": 25,
+                    "roll": 28
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Precise",
+                    "base": 44,
+                    "roll": 8
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Devoted",
+                    "base": 39,
+                    "roll": 9
+                }
+            ],
+            "ancient": false
+        },
+        "Flexible parts": {
+            "tool": [
+                {
+                    "perk": "Cautious",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Wise",
+                    "base": 9,
+                    "roll": 33
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Cautious",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Wise",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Dragon Bait",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Mobile",
+                    "base": 7,
+                    "roll": 28
+                },
+                {
+                    "perk": "Clear Headed",
+                    "base": 5,
+                    "roll": 15
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Cautious",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Wise",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Dragon Bait",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Mobile",
+                    "base": 7,
+                    "roll": 28
+                },
+                {
+                    "perk": "Clear Headed",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Profane",
+                    "base": 8,
+                    "roll": 33
+                }
+            ],
+            "ancient": false
+        },
+        "Third-age components": {
+            "tool": [
+                {
+                    "perk": "Prosper",
+                    "base": 50,
+                    "roll": 50
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Demon Slayer",
+                    "base": 44,
+                    "roll": 8
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Demon Slayer",
+                    "base": 44,
+                    "roll": 8
+                }
+            ],
+            "ancient": false
+        },
+        "Cover parts": {
+            "tool": [
+                {
+                    "perk": "Confused",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Furnace",
+                    "base": 7,
+                    "roll": 25
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Shield Bashing",
+                    "base": 5,
+                    "roll": 15
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Shield Bashing",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Profane",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Bulwark",
+                    "base": 9,
+                    "roll": 33
+                }
+            ],
+            "ancient": false
+        },
+        "Junk": {
+            "tool": [],
+            "weapon": [],
+            "armour": [],
+            "ancient": false
+        },
+        "Spiritual parts": {
+            "tool": [
+                {
+                    "perk": "Enlightened",
+                    "base": 5,
+                    "roll": 13
+                },
+                {
+                    "perk": "Antitheism",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Hoarding",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Cautious",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Wise",
+                    "base": 9,
+                    "roll": 33
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Enlightened",
+                    "base": 5,
+                    "roll": 13
+                },
+                {
+                    "perk": "Antitheism",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Hoarding",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Cautious",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Wise",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Inaccurate",
+                    "base": 8,
+                    "roll": 33
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Enlightened",
+                    "base": 5,
+                    "roll": 13
+                },
+                {
+                    "perk": "Antitheism",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Hoarding",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Cautious",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Wise",
+                    "base": 9,
+                    "roll": 33
+                }
+            ],
+            "ancient": false
+        },
+        "Cywir components": {
+            "tool": [],
+            "weapon": [
+                {
+                    "perk": "Planted Feet",
+                    "base": 20,
+                    "roll": 20
+                }
+            ],
+            "armour": [],
+            "ancient": false
+        },
+        "Light components": {
+            "tool": [
+                {
+                    "perk": "Glow Worm",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Hallucinogenic",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Pyromaniac",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Rapid",
+                    "base": 9,
+                    "roll": 33
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Glow Worm",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Hallucinogenic",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Inaccurate",
+                    "base": 12,
+                    "roll": 45
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Glow Worm",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Hallucinogenic",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Lucky",
+                    "base": 9,
+                    "roll": 33
+                }
+            ],
+            "ancient": false
+        },
+        "Base parts": {
+            "tool": [
+                {
+                    "perk": "Antitheism",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Talking",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Charitable",
+                    "base": 7,
+                    "roll": 25
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Antitheism",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Talking",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Dragon Slayer",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Inaccurate",
+                    "base": 8,
+                    "roll": 33
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Antitheism",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Talking",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Dragon Slayer",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Turtling",
+                    "base": 9,
+                    "roll": 33
+                }
+            ],
+            "ancient": false
+        },
+        "Plated parts": {
+            "tool": [
+                {
+                    "perk": "Committed",
+                    "base": 8,
+                    "roll": 33
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Committed",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Blunted",
+                    "base": 8,
+                    "roll": 32
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Committed",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Absorbative",
+                    "base": 5,
+                    "roll": 15
+                }
+            ],
+            "ancient": false
+        },
+        "Swift components": {
+            "tool": [
+                {
+                    "perk": "Imp Souled",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Invigorating",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Shield Bashing",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Blunted",
+                    "base": 12,
+                    "roll": 45
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Invigorating",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Shield Bashing",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "ancient": false
+        },
+        "Saradomin components": {
+            "tool": [],
+            "weapon": [
+                {
+                    "perk": "Spendthrift",
+                    "base": 44,
+                    "roll": 8
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Devoted",
+                    "base": 39,
+                    "roll": 9
+                }
+            ],
+            "ancient": false
+        },
+        "Clear parts": {
+            "tool": [
+                {
+                    "perk": "Glow Worm",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Cautious",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Hallucinogenic",
+                    "base": 7,
+                    "roll": 28
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Glow Worm",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Cautious",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Hallucinogenic",
+                    "base": 7,
+                    "roll": 28
+                },
+                {
+                    "perk": "Demon Slayer",
+                    "base": 5,
+                    "roll": 15
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Glow Worm",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Cautious",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Hallucinogenic",
+                    "base": 7,
+                    "roll": 28
+                },
+                {
+                    "perk": "Demon Slayer",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Profane",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Crystal Shield",
+                    "base": 5,
+                    "roll": 15
+                }
+            ],
+            "ancient": false
+        },
+        "Healthy components": {
+            "tool": [
+                {
+                    "perk": "Committed",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Efficient",
+                    "base": 9,
+                    "roll": 32
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Committed",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Efficient",
+                    "base": 9,
+                    "roll": 32
+                },
+                {
+                    "perk": "Inaccurate",
+                    "base": 12,
+                    "roll": 45
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Committed",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Efficient",
+                    "base": 9,
+                    "roll": 32
+                },
+                {
+                    "perk": "Venomblood",
+                    "base": 9,
+                    "roll": 33
+                }
+            ],
+            "ancient": false
+        },
+        "Smooth parts": {
+            "tool": [
+                {
+                    "perk": "Cheapskate",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Refined",
+                    "base": 7,
+                    "roll": 27
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Scavenging",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Undead Bait",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Energising",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Blunted",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Equilibrium",
+                    "base": 5,
+                    "roll": 13
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Scavenging",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Undead Bait",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Energising",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Reflexes",
+                    "base": 5,
+                    "roll": 15
+                }
+            ],
+            "ancient": false
+        },
+        "Knightly components": {
+            "tool": [],
+            "weapon": [
+                {
+                    "perk": "Taunting",
+                    "base": 44,
+                    "roll": 8
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Taunting",
+                    "base": 44,
+                    "roll": 8
+                }
+            ],
+            "ancient": false
+        },
+        "Sharp components": {
+            "tool": [
+                {
+                    "perk": "Honed",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Furnace",
+                    "base": 9,
+                    "roll": 33
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Dragon Bait",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Taunting",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Flanking",
+                    "base": 9,
+                    "roll": 32
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Dragon Bait",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Taunting",
+                    "base": 9,
+                    "roll": 33
+                }
+            ],
+            "ancient": false
+        },
+        "Protective components": {
+            "tool": [
+                {
+                    "perk": "Hoarding",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Polishing",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Hoarding",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Demon Bait",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Shield Bashing",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Hoarding",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Demon Bait",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Shield Bashing",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "ancient": false
+        },
+        "Imbued components": {
+            "tool": [
+                {
+                    "perk": "Furnace",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Crackling",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Ultimatums",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Junk Food",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Energising",
+                    "base": 12,
+                    "roll": 44
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Crackling",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Ultimatums",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Junk Food",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Energising",
+                    "base": 12,
+                    "roll": 44
+                }
+            ],
+            "ancient": false
+        },
+        "Ethereal components": {
+            "tool": [
+                {
+                    "perk": "Antitheism",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Wise",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Antitheism",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Wise",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Antitheism",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Wise",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Brief Respite",
+                    "base": 9,
+                    "roll": 33
+                }
+            ],
+            "ancient": false
+        },
+        "Historic components": {
+            "ancient": true,
+            "tool": [
+                {
+                    "perk": "Imp Souled",
+                    "base": 11,
+                    "roll": 33
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Precise",
+                    "base": 11,
+                    "roll": 33
+                },
+                {
+                    "perk": "Genocidal",
+                    "base": 11,
+                    "roll": 33
+                },
+                {
+                    "perk": "Ultimatums",
+                    "base": 11,
+                    "roll": 33
+                },
+                {
+                    "perk": "Looting",
+                    "base": 11,
+                    "roll": 33
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Genocidal",
+                    "base": 11,
+                    "roll": 33
+                },
+                {
+                    "perk": "Ultimatums",
+                    "base": 11,
+                    "roll": 33
+                },
+                {
+                    "perk": "Looting",
+                    "base": 11,
+                    "roll": 33
+                },
+                {
+                    "perk": "Turtling",
+                    "base": 11,
+                    "roll": 33
+                }
+            ]
+        },
+        "Subtle components": {
+            "tool": [
+                {
+                    "perk": "Confused",
+                    "base": 12,
+                    "roll": 45
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Looting",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Demon Bait",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Mobile",
+                    "base": 12,
+                    "roll": 44
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Looting",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Demon Bait",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Mobile",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Crystal Shield",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "ancient": false
+        },
+        "Fortunate components": {
+            "tool": [
+                {
+                    "perk": "Hoarding",
+                    "base": 13,
+                    "roll": 40
+                },
+                {
+                    "perk": "Brassican",
+                    "base": 13,
+                    "roll": 40
+                },
+                {
+                    "perk": "Polishing",
+                    "base": 13,
+                    "roll": 40
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Looting",
+                    "base": 13,
+                    "roll": 40
+                },
+                {
+                    "perk": "Hoarding",
+                    "base": 13,
+                    "roll": 40
+                },
+                {
+                    "perk": "Brassican",
+                    "base": 13,
+                    "roll": 40
+                },
+                {
+                    "perk": "Spendthrift",
+                    "base": 13,
+                    "roll": 40
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Looting",
+                    "base": 13,
+                    "roll": 40
+                },
+                {
+                    "perk": "Hoarding",
+                    "base": 13,
+                    "roll": 40
+                },
+                {
+                    "perk": "Brassican",
+                    "base": 13,
+                    "roll": 40
+                },
+                {
+                    "perk": "Lucky",
+                    "base": 13,
+                    "roll": 40
+                }
+            ],
+            "ancient": false
+        },
+        "Bandos components": {
+            "tool": [],
+            "weapon": [
+                {
+                    "perk": "Genocidal",
+                    "base": 44,
+                    "roll": 8
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Genocidal",
+                    "base": 44,
+                    "roll": 8
+                },
+                {
+                    "perk": "Devoted",
+                    "base": 39,
+                    "roll": 9
+                }
+            ],
+            "ancient": false
+        },
+        "Vintage components": {
+            "ancient": true,
+            "tool": [
+                {
+                    "perk": "Fortune",
+                    "base": 36,
+                    "roll": 30
+                },
+                {
+                    "perk": "Furnace",
+                    "base": 36,
+                    "roll": 30
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Relentless",
+                    "base": 50,
+                    "roll": 13
+                },
+                {
+                    "perk": "Crackling",
+                    "base": 26,
+                    "roll": 33
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Relentless",
+                    "base": 50,
+                    "roll": 13
+                },
+                {
+                    "perk": "Crackling",
+                    "base": 26,
+                    "roll": 33
+                }
+            ]
+        },
+        "Living components": {
+            "tool": [
+                {
+                    "perk": "Talking",
+                    "base": 12,
+                    "roll": 44
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Talking",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Undead Slayer",
+                    "base": 9,
+                    "roll": 33
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Talking",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Undead Slayer",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Profane",
+                    "base": 12,
+                    "roll": 45
+                }
+            ],
+            "ancient": false
+        },
+        "Culinary components": {
+            "tool": [],
+            "weapon": [
+                {
+                    "perk": "Invigorating",
+                    "base": 39,
+                    "roll": 9
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Invigorating",
+                    "base": 39,
+                    "roll": 9
+                },
+                {
+                    "perk": "Brief Respite",
+                    "base": 45,
+                    "roll": 8
+                }
+            ],
+            "ancient": false
+        },
+        "Seren components": {
+            "tool": [
+                {
+                    "perk": "Enlightened",
+                    "base": 40,
+                    "roll": 8
+                },
+                {
+                    "perk": "Wise",
+                    "base": 48,
+                    "roll": 5
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Enlightened",
+                    "base": 40,
+                    "roll": 8
+                },
+                {
+                    "perk": "Wise",
+                    "base": 48,
+                    "roll": 5
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Enlightened",
+                    "base": 40,
+                    "roll": 8
+                },
+                {
+                    "perk": "Wise",
+                    "base": 48,
+                    "roll": 5
+                }
+            ],
+            "ancient": false
+        },
+        "Ascended components": {
+            "tool": [
+                {
+                    "perk": "Efficient",
+                    "base": 40,
+                    "roll": 8
+                },
+                {
+                    "perk": "Enhanced Efficient",
+                    "base": 20,
+                    "roll": 25
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Efficient",
+                    "base": 40,
+                    "roll": 8
+                },
+                {
+                    "perk": "Enhanced Efficient",
+                    "base": 20,
+                    "roll": 25
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Efficient",
+                    "base": 40,
+                    "roll": 8
+                },
+                {
+                    "perk": "Enhanced Efficient",
+                    "base": 20,
+                    "roll": 25
+                }
+            ],
+            "ancient": false
+        },
+        "Corporeal components": {
+            "tool": [],
+            "weapon": [],
+            "armour": [
+                {
+                    "perk": "Brief Respite",
+                    "base": 40,
+                    "roll": 8
+                }
+            ],
+            "ancient": false
+        },
+        "Crystal parts": {
+            "tool": [
+                {
+                    "perk": "Efficient",
+                    "base": 5,
+                    "roll": 13
+                },
+                {
+                    "perk": "Cheapskate",
+                    "base": 8,
+                    "roll": 32
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Efficient",
+                    "base": 5,
+                    "roll": 13
+                },
+                {
+                    "perk": "Trophy-taker's",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Undead Slayer",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Demon Bait",
+                    "base": 8,
+                    "roll": 32
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Efficient",
+                    "base": 5,
+                    "roll": 13
+                },
+                {
+                    "perk": "Trophy-taker's",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Undead Slayer",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Demon Bait",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Turtling",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Profane",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Enhanced Devoted",
+                    "base": 5,
+                    "roll": 15
+                }
+            ],
+            "ancient": false
+        },
+        "Strong components": {
+            "tool": [
+                {
+                    "perk": "Committed",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Fatiguing",
+                    "base": 12,
+                    "roll": 45
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Committed",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Fatiguing",
+                    "base": 12,
+                    "roll": 45
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Committed",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Fatiguing",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Absorbative",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Enhanced Devoted",
+                    "base": 9,
+                    "roll": 32
+                }
+            ],
+            "ancient": false
+        },
+        "Powerful components": {
+            "tool": [],
+            "weapon": [
+                {
+                    "perk": "Genocidal",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Trophy-taker's",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Blunted",
+                    "base": 12,
+                    "roll": 45
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Genocidal",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Trophy-taker's",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Bulwark",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "ancient": false
+        },
+        "Avernic components": {
+            "tool": [],
+            "weapon": [
+                {
+                    "perk": "Lunging",
+                    "base": 44,
+                    "roll": 8
+                }
+            ],
+            "armour": [],
+            "ancient": false
+        },
+        "Shifting components": {
+            "tool": [
+                {
+                    "perk": "Efficient",
+                    "base": 44,
+                    "roll": 8
+                },
+                {
+                    "perk": "Rapid",
+                    "base": 25,
+                    "roll": 28
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Efficient",
+                    "base": 44,
+                    "roll": 8
+                },
+                {
+                    "perk": "Ultimatums",
+                    "base": 45,
+                    "roll": 8
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Efficient",
+                    "base": 44,
+                    "roll": 8
+                },
+                {
+                    "perk": "Ultimatums",
+                    "base": 45,
+                    "roll": 8
+                }
+            ],
+            "ancient": false
+        },
+        "Organic parts": {
+            "tool": [
+                {
+                    "perk": "Talking",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Pyromaniac",
+                    "base": 7,
+                    "roll": 27
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Talking",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Invigorating",
+                    "base": 5,
+                    "roll": 13
+                },
+                {
+                    "perk": "Inaccurate",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Mediocrity",
+                    "base": 8,
+                    "roll": 32
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Talking",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Invigorating",
+                    "base": 5,
+                    "roll": 13
+                },
+                {
+                    "perk": "Brief Respite",
+                    "base": 5,
+                    "roll": 15
+                }
+            ],
+            "ancient": false
+        },
+        "Dextrous components": {
+            "tool": [
+                {
+                    "perk": "Polishing",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Butterfingers",
+                    "base": 9,
+                    "roll": 33
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Demon Slayer",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Dragon Bait",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Mobile",
+                    "base": 12,
+                    "roll": 44
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Demon Slayer",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Dragon Bait",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Mobile",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Reflexes",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "ancient": false
+        },
+        "Faceted components": {
+            "tool": [],
+            "weapon": [],
+            "armour": [
+                {
+                    "perk": "Crystal Shield",
+                    "base": 39,
+                    "roll": 9
+                },
+                {
+                    "perk": "Enhanced Devoted",
+                    "base": 45,
+                    "roll": 8
+                }
+            ],
+            "ancient": false
+        },
+        "Pestiferous components": {
+            "tool": [],
+            "weapon": [],
+            "armour": [
+                {
+                    "perk": "Venomblood",
+                    "base": 44,
+                    "roll": 8
+                }
+            ],
+            "ancient": false
+        },
+        "Variable components": {
+            "tool": [
+                {
+                    "perk": "Cheapskate",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Enhanced Efficient",
+                    "base": 9,
+                    "roll": 32
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Trophy-taker's",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Demon Bait",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Clear Headed",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Enhanced Efficient",
+                    "base": 9,
+                    "roll": 32
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Trophy-taker's",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Demon Bait",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Clear Headed",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Enhanced Efficient",
+                    "base": 9,
+                    "roll": 32
+                }
+            ],
+            "ancient": false
+        },
+        "Stave parts": {
+            "tool": [
+                {
+                    "perk": "Glow Worm",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Committed",
+                    "base": 7,
+                    "roll": 28
+                },
+                {
+                    "perk": "Fatiguing",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Rapid",
+                    "base": 7,
+                    "roll": 25
+                },
+                {
+                    "perk": "Prosper",
+                    "base": 5,
+                    "roll": 5
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Glow Worm",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Committed",
+                    "base": 7,
+                    "roll": 28
+                },
+                {
+                    "perk": "Fatiguing",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Undead Bait",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Energising",
+                    "base": 7,
+                    "roll": 27
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Glow Worm",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Committed",
+                    "base": 7,
+                    "roll": 28
+                },
+                {
+                    "perk": "Fatiguing",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Undead Bait",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Energising",
+                    "base": 7,
+                    "roll": 27
+                }
+            ],
+            "ancient": false
+        },
+        "Zaros components": {
+            "tool": [
+                {
+                    "perk": "Imp Souled",
+                    "base": 20,
+                    "roll": 25
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Impatient",
+                    "base": 44,
+                    "roll": 8
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Impatient",
+                    "base": 44,
+                    "roll": 8
+                },
+                {
+                    "perk": "Enhanced Devoted",
+                    "base": 39,
+                    "roll": 9
+                }
+            ],
+            "ancient": false
+        },
+        "Silent components": {
+            "tool": [
+                {
+                    "perk": "Honed",
+                    "base": 25,
+                    "roll": 28
+                }
+            ],
+            "weapon": [],
+            "armour": [
+                {
+                    "perk": "Lucky",
+                    "base": 45,
+                    "roll": 8
+                }
+            ],
+            "ancient": false
+        },
+        "Head parts": {
+            "tool": [
+                {
+                    "perk": "Talking",
+                    "base": 7,
+                    "roll": 27
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Talking",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Clear Headed",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Inaccurate",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Mediocrity",
+                    "base": 8,
+                    "roll": 32
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Talking",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Clear Headed",
+                    "base": 5,
+                    "roll": 15
+                }
+            ],
+            "ancient": false
+        },
+        "Explosive components": {
+            "tool": [
+                {
+                    "perk": "Pyromaniac",
+                    "base": 25,
+                    "roll": 28
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Crackling",
+                    "base": 48,
+                    "roll": 5
+                },
+                {
+                    "perk": "Ultimatums",
+                    "base": 40,
+                    "roll": 8
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Crackling",
+                    "base": 48,
+                    "roll": 5
+                },
+                {
+                    "perk": "Ultimatums",
+                    "base": 40,
+                    "roll": 8
+                }
+            ],
+            "ancient": false
+        },
+        "Undead components": {
+            "tool": [
+                {
+                    "perk": "Breakdown",
+                    "base": 25,
+                    "roll": 28
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Genocidal",
+                    "base": 40,
+                    "roll": 8
+                },
+                {
+                    "perk": "Undead Slayer",
+                    "base": 48,
+                    "roll": 5
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Genocidal",
+                    "base": 40,
+                    "roll": 8
+                },
+                {
+                    "perk": "Undead Slayer",
+                    "base": 48,
+                    "roll": 5
+                }
+            ],
+            "ancient": false
+        },
+        "Stunning components": {
+            "tool": [
+                {
+                    "perk": "Fatiguing",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Mysterious",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Confused",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Fatiguing",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Clear Headed",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Mediocrity",
+                    "base": 12,
+                    "roll": 44
+                },
+                {
+                    "perk": "Mysterious",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Fatiguing",
+                    "base": 12,
+                    "roll": 45
+                },
+                {
+                    "perk": "Clear Headed",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Mysterious",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "ancient": false
+        },
+        "Clockwork components": {
+            "tool": [
+                {
+                    "perk": "Enhanced Efficient",
+                    "base": 45,
+                    "roll": 8
+                },
+                {
+                    "perk": "Tinker",
+                    "base": 18,
+                    "roll": 28
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Enhanced Efficient",
+                    "base": 45,
+                    "roll": 8
+                },
+                {
+                    "perk": "Flanking",
+                    "base": 25,
+                    "roll": 28
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Enhanced Efficient",
+                    "base": 45,
+                    "roll": 8
+                }
+            ],
+            "ancient": false
+        },
+        "Spiked parts": {
+            "tool": [
+                {
+                    "perk": "Committed",
+                    "base": 7,
+                    "roll": 28
+                },
+                {
+                    "perk": "Fatiguing",
+                    "base": 8,
+                    "roll": 32
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Committed",
+                    "base": 7,
+                    "roll": 28
+                },
+                {
+                    "perk": "Fatiguing",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Genocidal",
+                    "base": 5,
+                    "roll": 13
+                },
+                {
+                    "perk": "Trophy-taker's",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Taunting",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Junk Food",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Flanking",
+                    "base": 5,
+                    "roll": 15
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Committed",
+                    "base": 7,
+                    "roll": 28
+                },
+                {
+                    "perk": "Fatiguing",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Genocidal",
+                    "base": 5,
+                    "roll": 13
+                },
+                {
+                    "perk": "Trophy-taker's",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Taunting",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Junk Food",
+                    "base": 8,
+                    "roll": 33
+                }
+            ],
+            "ancient": false
+        },
+        "Zamorak components": {
+            "tool": [
+                {
+                    "perk": "Imp Souled",
+                    "base": 28,
+                    "roll": 29
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Impatient",
+                    "base": 44,
+                    "roll": 8
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Impatient",
+                    "base": 44,
+                    "roll": 8
+                },
+                {
+                    "perk": "Devoted",
+                    "base": 39,
+                    "roll": 9
+                }
+            ],
+            "ancient": false
+        },
+        "Brassican components": {
+            "tool": [
+                {
+                    "perk": "Hallucinogenic",
+                    "base": 36,
+                    "roll": 9
+                },
+                {
+                    "perk": "Talking",
+                    "base": 45,
+                    "roll": 8
+                },
+                {
+                    "perk": "Brassican",
+                    "base": 49,
+                    "roll": 8
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Hallucinogenic",
+                    "base": 36,
+                    "roll": 9
+                },
+                {
+                    "perk": "Talking",
+                    "base": 45,
+                    "roll": 8
+                },
+                {
+                    "perk": "Brassican",
+                    "base": 49,
+                    "roll": 8
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Hallucinogenic",
+                    "base": 36,
+                    "roll": 9
+                },
+                {
+                    "perk": "Talking",
+                    "base": 45,
+                    "roll": 8
+                },
+                {
+                    "perk": "Brassican",
+                    "base": 49,
+                    "roll": 8
+                }
+            ],
+            "ancient": false
+        },
+        "Padded parts": {
+            "tool": [
+                {
+                    "perk": "Polishing",
+                    "base": 7,
+                    "roll": 28
+                },
+                {
+                    "perk": "Butterfingers",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Breakdown",
+                    "base": 7,
+                    "roll": 27
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Demon Bait",
+                    "base": 8,
+                    "roll": 32
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Demon Bait",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Absorbative",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Profane",
+                    "base": 8,
+                    "roll": 33
+                }
+            ],
+            "ancient": false
+        },
+        "Timeworn components": {
+            "ancient": true,
+            "tool": [
+                {
+                    "perk": "Fortune",
+                    "base": 36,
+                    "roll": 30
+                },
+                {
+                    "perk": "Prosper",
+                    "base": 13,
+                    "roll": 26
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Ruthless",
+                    "base": 30,
+                    "roll": 13
+                },
+                {
+                    "perk": "Equilibrium",
+                    "base": 26,
+                    "roll": 33
+                }
+            ],
+            "armour": []
+        },
+        "Noxious components": {
+            "tool": [],
+            "weapon": [
+                {
+                    "perk": "Biting",
+                    "base": 40,
+                    "roll": 8
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Biting",
+                    "base": 40,
+                    "roll": 8
+                }
+            ],
+            "ancient": false
+        },
+        "Connector parts": {
+            "tool": [],
+            "weapon": [
+                {
+                    "perk": "Scavenging",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Dragon Bait",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Undead Bait",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Mobile",
+                    "base": 7,
+                    "roll": 28
+                },
+                {
+                    "perk": "Precise",
+                    "base": 5,
+                    "roll": 15
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Scavenging",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Dragon Bait",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Undead Bait",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Mobile",
+                    "base": 7,
+                    "roll": 28
+                }
+            ],
+            "ancient": false
+        },
+        "Harnessed components": {
+            "tool": [],
+            "weapon": [],
+            "armour": [
+                {
+                    "perk": "Reflexes",
+                    "base": 45,
+                    "roll": 8
+                },
+                {
+                    "perk": "Preparation",
+                    "base": 44,
+                    "roll": 8
+                }
+            ],
+            "ancient": false
+        },
+        "Dragonfire components": {
+            "tool": [
+                {
+                    "perk": "Furnace",
+                    "base": 25,
+                    "roll": 28
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Dragon Slayer",
+                    "base": 44,
+                    "roll": 8
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Dragon Slayer",
+                    "base": 44,
+                    "roll": 8
+                }
+            ],
+            "ancient": false
+        },
+        "Classic components": {
+            "ancient": true,
+            "tool": [
+                {
+                    "perk": "Fortune",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Furnace",
+                    "base": 12,
+                    "roll": 40
+                },
+                {
+                    "perk": "Efficient",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Scavenging",
+                    "base": 12,
+                    "roll": 20
+                },
+                {
+                    "perk": "Efficient",
+                    "base": 12,
+                    "roll": 40
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Scavenging",
+                    "base": 12,
+                    "roll": 20
+                },
+                {
+                    "perk": "Efficient",
+                    "base": 12,
+                    "roll": 40
+                }
+            ]
+        },
+        "Delicate parts": {
+            "tool": [
+                {
+                    "perk": "Butterfingers",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Charitable",
+                    "base": 7,
+                    "roll": 27
+                },
+                {
+                    "perk": "Enhanced Efficient",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Tinker",
+                    "base": 7,
+                    "roll": 25
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Demon Bait",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Junk Food",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Equilibrium",
+                    "base": 5,
+                    "roll": 13
+                },
+                {
+                    "perk": "Enhanced Efficient",
+                    "base": 5,
+                    "roll": 15
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Demon Bait",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Junk Food",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Lucky",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Enhanced Efficient",
+                    "base": 5,
+                    "roll": 15
+                }
+            ],
+            "ancient": false
+        },
+        "Rumbling components": {
+            "tool": [],
+            "weapon": [
+                {
+                    "perk": "Equilibrium",
+                    "base": 40,
+                    "roll": 8
+                }
+            ],
+            "armour": [],
+            "ancient": false
+        },
+        "Tensile parts": {
+            "tool": [
+                {
+                    "perk": "Hoarding",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Mysterious",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Butterfingers",
+                    "base": 8,
+                    "roll": 32
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Hoarding",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Blunted",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Mysterious",
+                    "base": 9,
+                    "roll": 33
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Hoarding",
+                    "base": 5,
+                    "roll": 15
+                },
+                {
+                    "perk": "Profane",
+                    "base": 8,
+                    "roll": 33
+                },
+                {
+                    "perk": "Mysterious",
+                    "base": 9,
+                    "roll": 33
+                }
+            ],
+            "ancient": false
+        },
+        "Crafted parts": {
+            "tool": [
+                {
+                    "perk": "Hallucinogenic",
+                    "base": 7,
+                    "roll": 28
+                },
+                {
+                    "perk": "Fatiguing",
+                    "base": 8,
+                    "roll": 32
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Hallucinogenic",
+                    "base": 7,
+                    "roll": 28
+                },
+                {
+                    "perk": "Fatiguing",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Mediocrity",
+                    "base": 8,
+                    "roll": 33
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Hallucinogenic",
+                    "base": 7,
+                    "roll": 28
+                },
+                {
+                    "perk": "Fatiguing",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Preparation",
+                    "base": 5,
+                    "roll": 15
+                }
+            ],
+            "ancient": false
+        },
+        "Metallic parts": {
+            "tool": [
+                {
+                    "perk": "Antitheism",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Confused",
+                    "base": 7,
+                    "roll": 27
+                }
+            ],
+            "weapon": [
+                {
+                    "perk": "Antitheism",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Mediocrity",
+                    "base": 8,
+                    "roll": 33
+                }
+            ],
+            "armour": [
+                {
+                    "perk": "Antitheism",
+                    "base": 8,
+                    "roll": 32
+                },
+                {
+                    "perk": "Bulwark",
+                    "base": 9,
+                    "roll": 33
+                },
+                {
+                    "perk": "Preparation",
+                    "base": 5,
+                    "roll": 15
+                }
+            ],
+            "ancient": false
+        }
+    },
+    "perkInfo": {
+        "Devoted": {
+            "twoSlot": false,
+            "thresholds": [
+                55,
+                115,
+                220,
+                260
+            ],
+            "costs": [
+                40,
+                90,
+                175,
+                185
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Rapid": {
+            "twoSlot": false,
+            "thresholds": [
+                55,
+                115,
+                220,
+                260
+            ],
+            "costs": [
+                40,
+                90,
+                175,
+                185
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Efficient": {
+            "twoSlot": false,
+            "thresholds": [
+                40,
+                80,
+                120,
+                140
+            ],
+            "costs": [
+                35,
+                70,
+                100,
+                110
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Hoarding": {
+            "twoSlot": false,
+            "thresholds": [
+                50
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Relentless": {
+            "twoSlot": false,
+            "thresholds": [
+                60,
+                130,
+                200,
+                280,
+                380
+            ],
+            "costs": [
+                45,
+                75,
+                130,
+                170,
+                205
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "ancientOnly": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        "Reflexes": {
+            "twoSlot": false,
+            "thresholds": [
+                50
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Genocidal": {
+            "twoSlot": false,
+            "thresholds": [
+                65
+            ],
+            "costs": [
+                50
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Tinker": {
+            "twoSlot": false,
+            "thresholds": [
+                40,
+                70,
+                150,
+                180
+            ],
+            "costs": [
+                20,
+                30,
+                40,
+                50
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Taunting": {
+            "twoSlot": false,
+            "thresholds": [
+                50
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Fatiguing": {
+            "twoSlot": false,
+            "thresholds": [
+                40,
+                90,
+                180
+            ],
+            "costs": [
+                35,
+                35,
+                35
+            ],
+            "ranks": [
+                1,
+                2,
+                3
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0
+            ]
+        },
+        "Mysterious": {
+            "twoSlot": false,
+            "thresholds": [
+                25,
+                45,
+                120,
+                175,
+                250,
+                300
+            ],
+            "costs": [
+                20,
+                30,
+                40,
+                50,
+                60,
+                70
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Wise": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                100,
+                200,
+                240
+            ],
+            "costs": [
+                35,
+                80,
+                150,
+                160
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Junk Food": {
+            "twoSlot": false,
+            "thresholds": [
+                40,
+                90,
+                180
+            ],
+            "costs": [
+                30,
+                30,
+                30
+            ],
+            "ranks": [
+                1,
+                2,
+                3
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0
+            ]
+        },
+        "Equilibrium": {
+            "twoSlot": false,
+            "thresholds": [
+                55,
+                115,
+                220,
+                260
+            ],
+            "costs": [
+                40,
+                90,
+                175,
+                185
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Breakdown": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                80,
+                130,
+                170,
+                210,
+                250
+            ],
+            "costs": [
+                35,
+                65,
+                120,
+                160,
+                195,
+                205
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Flanking": {
+            "twoSlot": false,
+            "thresholds": [
+                40,
+                140,
+                210,
+                250
+            ],
+            "costs": [
+                30,
+                110,
+                180,
+                190
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Furnace": {
+            "twoSlot": false,
+            "thresholds": [
+                55,
+                115,
+                220,
+                260
+            ],
+            "costs": [
+                40,
+                90,
+                175,
+                185
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Inaccurate": {
+            "twoSlot": false,
+            "thresholds": [
+                40,
+                70,
+                120,
+                155,
+                195
+            ],
+            "costs": [
+                30,
+                30,
+                30,
+                30,
+                30
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "Brief Respite": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                100,
+                200,
+                240
+            ],
+            "costs": [
+                35,
+                80,
+                150,
+                160
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Blunted": {
+            "twoSlot": false,
+            "thresholds": [
+                40,
+                70,
+                120,
+                155,
+                195
+            ],
+            "costs": [
+                30,
+                30,
+                30,
+                30,
+                30
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "Caroming": {
+            "twoSlot": false,
+            "thresholds": [
+                55,
+                115,
+                170,
+                200
+            ],
+            "costs": [
+                40,
+                90,
+                175,
+                185
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Lucky": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                80,
+                130,
+                170,
+                210,
+                250
+            ],
+            "costs": [
+                35,
+                65,
+                120,
+                160,
+                195,
+                205
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Lunging": {
+            "twoSlot": false,
+            "thresholds": [
+                55,
+                115,
+                170,
+                200
+            ],
+            "costs": [
+                40,
+                90,
+                175,
+                185
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Ruthless": {
+            "twoSlot": false,
+            "thresholds": [
+                60,
+                130,
+                250
+            ],
+            "costs": [
+                45,
+                90,
+                180
+            ],
+            "ranks": [
+                1,
+                2,
+                3
+            ],
+            "ancientOnly": [
+                1,
+                1,
+                1
+            ]
+        },
+        "Confused": {
+            "twoSlot": false,
+            "thresholds": [
+                40,
+                70,
+                150
+            ],
+            "costs": [
+                20,
+                30,
+                40
+            ],
+            "ranks": [
+                1,
+                2,
+                3
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0
+            ]
+        },
+        "Trophy-taker's": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                80,
+                130,
+                170,
+                210,
+                250
+            ],
+            "costs": [
+                35,
+                65,
+                120,
+                160,
+                195,
+                205
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Imp Souled": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                80,
+                130,
+                170,
+                210,
+                250
+            ],
+            "costs": [
+                35,
+                65,
+                120,
+                160,
+                195,
+                205
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Enlightened": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                100,
+                200,
+                240
+            ],
+            "costs": [
+                35,
+                80,
+                150,
+                160
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Turtling": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                100,
+                200,
+                240
+            ],
+            "costs": [
+                35,
+                80,
+                150,
+                160
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Undead Bait": {
+            "twoSlot": false,
+            "thresholds": [
+                45
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Enhanced Efficient": {
+            "twoSlot": true,
+            "thresholds": [
+                40,
+                140,
+                230,
+                270
+            ],
+            "costs": [
+                30,
+                120,
+                220,
+                230
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Ultimatums": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                100,
+                200,
+                240
+            ],
+            "costs": [
+                35,
+                80,
+                150,
+                160
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Fortune": {
+            "twoSlot": false,
+            "thresholds": [
+                60,
+                130,
+                250
+            ],
+            "costs": [
+                45,
+                90,
+                180
+            ],
+            "ranks": [
+                1,
+                2,
+                3
+            ],
+            "ancientOnly": [
+                1,
+                1,
+                1
+            ]
+        },
+        "Cautious": {
+            "twoSlot": false,
+            "thresholds": [
+                45
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Dragon Slayer": {
+            "twoSlot": false,
+            "thresholds": [
+                50
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Looting": {
+            "twoSlot": false,
+            "thresholds": [
+                65
+            ],
+            "costs": [
+                50
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Profane": {
+            "twoSlot": false,
+            "thresholds": [
+                45
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Bulwark": {
+            "twoSlot": false,
+            "thresholds": [
+                55,
+                115,
+                220,
+                260
+            ],
+            "costs": [
+                40,
+                90,
+                175,
+                185
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Mobile": {
+            "twoSlot": false,
+            "thresholds": [
+                50
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "No effect": {
+            "twoSlot": false,
+            "thresholds": [
+                0
+            ],
+            "costs": [
+                0
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Scavenging": {
+            "twoSlot": false,
+            "thresholds": [
+                55,
+                115,
+                220,
+                260
+            ],
+            "costs": [
+                40,
+                90,
+                175,
+                185
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Impatient": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                100,
+                200,
+                240
+            ],
+            "costs": [
+                35,
+                80,
+                150,
+                160
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Charitable": {
+            "twoSlot": false,
+            "thresholds": [
+                40,
+                90,
+                180,
+                210
+            ],
+            "costs": [
+                30,
+                75,
+                135,
+                145
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Aftershock": {
+            "twoSlot": false,
+            "thresholds": [
+                55,
+                115,
+                170,
+                200
+            ],
+            "costs": [
+                40,
+                90,
+                175,
+                185
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Brassican": {
+            "twoSlot": false,
+            "thresholds": [
+                50
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Glow Worm": {
+            "twoSlot": false,
+            "thresholds": [
+                50
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Absorbative": {
+            "twoSlot": false,
+            "thresholds": [
+                55,
+                115,
+                220,
+                260
+            ],
+            "costs": [
+                40,
+                90,
+                175,
+                185
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Polishing": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                100,
+                200,
+                240
+            ],
+            "costs": [
+                35,
+                80,
+                150,
+                160
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Biting": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                100,
+                200,
+                240
+            ],
+            "costs": [
+                35,
+                80,
+                150,
+                160
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Spendthrift": {
+            "twoSlot": false,
+            "thresholds": [
+                55,
+                90,
+                150,
+                185,
+                220,
+                260
+            ],
+            "costs": [
+                40,
+                75,
+                135,
+                170,
+                210,
+                220
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Shield Bashing": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                100,
+                200,
+                240
+            ],
+            "costs": [
+                35,
+                80,
+                150,
+                160
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Demon Bait": {
+            "twoSlot": false,
+            "thresholds": [
+                45
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Demon Slayer": {
+            "twoSlot": false,
+            "thresholds": [
+                50
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Precise": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                80,
+                130,
+                170,
+                210,
+                250
+            ],
+            "costs": [
+                35,
+                65,
+                120,
+                160,
+                195,
+                205
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Clear Headed": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                100,
+                200,
+                240
+            ],
+            "costs": [
+                35,
+                80,
+                150,
+                160
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Energising": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                100,
+                200,
+                240
+            ],
+            "costs": [
+                35,
+                80,
+                150,
+                160
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Cheapskate": {
+            "twoSlot": false,
+            "thresholds": [
+                40,
+                70,
+                150
+            ],
+            "costs": [
+                20,
+                30,
+                40
+            ],
+            "ranks": [
+                1,
+                2,
+                3
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0
+            ]
+        },
+        "Undead Slayer": {
+            "twoSlot": false,
+            "thresholds": [
+                50
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Invigorating": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                100,
+                200,
+                240
+            ],
+            "costs": [
+                35,
+                80,
+                150,
+                160
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Antitheism": {
+            "twoSlot": false,
+            "thresholds": [
+                50
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Preparation": {
+            "twoSlot": false,
+            "thresholds": [
+                55,
+                115,
+                220,
+                260
+            ],
+            "costs": [
+                40,
+                90,
+                175,
+                185
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Venomblood": {
+            "twoSlot": false,
+            "thresholds": [
+                50
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Planted Feet": {
+            "twoSlot": false,
+            "thresholds": [
+                60
+            ],
+            "costs": [
+                60
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Honed": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                80,
+                130,
+                170,
+                210,
+                250
+            ],
+            "costs": [
+                35,
+                65,
+                120,
+                160,
+                195,
+                205
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Pyromaniac": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                80,
+                130,
+                170,
+                210,
+                250
+            ],
+            "costs": [
+                35,
+                65,
+                120,
+                160,
+                195,
+                205
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Talking": {
+            "twoSlot": false,
+            "thresholds": [
+                50
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Mediocrity": {
+            "twoSlot": false,
+            "thresholds": [
+                40,
+                90,
+                180
+            ],
+            "costs": [
+                30,
+                30,
+                30
+            ],
+            "ranks": [
+                1,
+                2,
+                3
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0
+            ]
+        },
+        "Prosper": {
+            "twoSlot": false,
+            "thresholds": [
+                50
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Butterfingers": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                80,
+                130,
+                170,
+                210
+            ],
+            "costs": [
+                35,
+                65,
+                120,
+                160,
+                195
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "Committed": {
+            "twoSlot": false,
+            "thresholds": [
+                45
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Crystal Shield": {
+            "twoSlot": false,
+            "thresholds": [
+                40,
+                150,
+                180,
+                210
+            ],
+            "costs": [
+                30,
+                120,
+                150,
+                160
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Hallucinogenic": {
+            "twoSlot": false,
+            "thresholds": [
+                50
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Refined": {
+            "twoSlot": false,
+            "thresholds": [
+                55,
+                115,
+                220,
+                260
+            ],
+            "costs": [
+                40,
+                90,
+                175,
+                185
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Dragon Bait": {
+            "twoSlot": false,
+            "thresholds": [
+                45
+            ],
+            "costs": [
+                35
+            ],
+            "ranks": [
+                1
+            ],
+            "ancientOnly": [
+                0
+            ]
+        },
+        "Enhanced Devoted": {
+            "twoSlot": true,
+            "thresholds": [
+                40,
+                140,
+                230,
+                270
+            ],
+            "costs": [
+                30,
+                120,
+                220,
+                230
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "Crackling": {
+            "twoSlot": false,
+            "thresholds": [
+                50,
+                100,
+                200,
+                240
+            ],
+            "costs": [
+                35,
+                80,
+                150,
+                160
+            ],
+            "ranks": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "ancientOnly": [
+                0,
+                0,
+                0,
+                1
+            ]
+        }
+    },
+    "compList": {
+        "components": [
+            {
+                "name": "Base parts",
+                "cat": 0
+            },
+            {
+                "name": "Blade parts",
+                "cat": 0
+            },
+            {
+                "name": "Clear parts",
+                "cat": 0
+            },
+            {
+                "name": "Connector parts",
+                "cat": 0
+            },
+            {
+                "name": "Cover parts",
+                "cat": 0
+            },
+            {
+                "name": "Crafted parts",
+                "cat": 0
+            },
+            {
+                "name": "Crystal parts",
+                "cat": 0
+            },
+            {
+                "name": "Deflecting parts",
+                "cat": 0
+            },
+            {
+                "name": "Delicate parts",
+                "cat": 0
+            },
+            {
+                "name": "Flexible parts",
+                "cat": 0
+            },
+            {
+                "name": "Head parts",
+                "cat": 0
+            },
+            {
+                "name": "Magic parts",
+                "cat": 0
+            },
+            {
+                "name": "Metallic parts",
+                "cat": 0
+            },
+            {
+                "name": "Organic parts",
+                "cat": 0
+            },
+            {
+                "name": "Padded parts",
+                "cat": 0
+            },
+            {
+                "name": "Plated parts",
+                "cat": 0
+            },
+            {
+                "name": "Simple parts",
+                "cat": 0
+            },
+            {
+                "name": "Smooth parts",
+                "cat": 0
+            },
+            {
+                "name": "Spiked parts",
+                "cat": 0
+            },
+            {
+                "name": "Spiritual parts",
+                "cat": 0
+            },
+            {
+                "name": "Stave parts",
+                "cat": 0
+            },
+            {
+                "name": "Tensile parts",
+                "cat": 0
+            },
+            {
+                "name": "Dextrous components",
+                "cat": 1
+            },
+            {
+                "name": "Direct components",
+                "cat": 1
+            },
+            {
+                "name": "Enhancing components",
+                "cat": 1
+            },
+            {
+                "name": "Ethereal components",
+                "cat": 1
+            },
+            {
+                "name": "Evasive components",
+                "cat": 1
+            },
+            {
+                "name": "Healthy components",
+                "cat": 1
+            },
+            {
+                "name": "Heavy components",
+                "cat": 1
+            },
+            {
+                "name": "Imbued components",
+                "cat": 1
+            },
+            {
+                "name": "Light components",
+                "cat": 1
+            },
+            {
+                "name": "Living components",
+                "cat": 1
+            },
+            {
+                "name": "Pious components",
+                "cat": 1
+            },
+            {
+                "name": "Powerful components",
+                "cat": 1
+            },
+            {
+                "name": "Precious components",
+                "cat": 1
+            },
+            {
+                "name": "Precise components",
+                "cat": 1
+            },
+            {
+                "name": "Protective components",
+                "cat": 1
+            },
+            {
+                "name": "Refined components",
+                "cat": 1
+            },
+            {
+                "name": "Sharp components",
+                "cat": 1
+            },
+            {
+                "name": "Strong components",
+                "cat": 1
+            },
+            {
+                "name": "Stunning components",
+                "cat": 1
+            },
+            {
+                "name": "Subtle components",
+                "cat": 1
+            },
+            {
+                "name": "Swift components",
+                "cat": 1
+            },
+            {
+                "name": "Variable components",
+                "cat": 1
+            },
+            {
+                "name": "Third-age components",
+                "cat": 2
+            },
+            {
+                "name": "Armadyl components",
+                "cat": 2
+            },
+            {
+                "name": "Ascended components",
+                "cat": 2
+            },
+            {
+                "name": "Avernic components",
+                "cat": 2
+            },
+            {
+                "name": "Bandos components",
+                "cat": 2
+            },
+            {
+                "name": "Brassican components",
+                "cat": 2
+            },
+            {
+                "name": "Clockwork components",
+                "cat": 2
+            },
+            {
+                "name": "Corporeal components",
+                "cat": 2
+            },
+            {
+                "name": "Culinary components",
+                "cat": 2
+            },
+            {
+                "name": "Cywir components",
+                "cat": 2
+            },
+            {
+                "name": "Dragonfire components",
+                "cat": 2
+            },
+            {
+                "name": "Explosive components",
+                "cat": 2
+            },
+            {
+                "name": "Faceted components",
+                "cat": 2
+            },
+            {
+                "name": "Fortunate components",
+                "cat": 2
+            },
+            {
+                "name": "Fungal components",
+                "cat": 2
+            },
+            {
+                "name": "Harnessed components",
+                "cat": 2
+            },
+            {
+                "name": "Ilujankan components",
+                "cat": 2
+            },
+            {
+                "name": "Knightly components",
+                "cat": 2
+            },
+            {
+                "name": "Noxious components",
+                "cat": 2
+            },
+            {
+                "name": "Oceanic components",
+                "cat": 2
+            },
+            {
+                "name": "Pestiferous components",
+                "cat": 2
+            },
+            {
+                "name": "Resilient components",
+                "cat": 2
+            },
+            {
+                "name": "Rumbling components",
+                "cat": 2
+            },
+            {
+                "name": "Saradomin components",
+                "cat": 2
+            },
+            {
+                "name": "Seren components",
+                "cat": 2
+            },
+            {
+                "name": "Shadow components",
+                "cat": 2
+            },
+            {
+                "name": "Shifting components",
+                "cat": 2
+            },
+            {
+                "name": "Silent components",
+                "cat": 2
+            },
+            {
+                "name": "Undead components",
+                "cat": 2
+            },
+            {
+                "name": "Zamorak components",
+                "cat": 2
+            },
+            {
+                "name": "Zaros components",
+                "cat": 2
+            },
+            {
+                "name": "Classic components",
+                "cat": 2,
+                "ancient": true
+            },
+            {
+                "name": "Historic components",
+                "cat": 2,
+                "ancient": true
+            },
+            {
+                "name": "Timeworn components",
+                "cat": 2,
+                "ancient": true
+            },
+            {
+                "name": "Vintage components",
+                "cat": 2,
+                "ancient": true
+            }
+        ]
+    },
+    "perkList": [
+        "Devoted",
+        "Rapid",
+        "Efficient",
+        "Hoarding",
+        "Relentless",
+        "Reflexes",
+        "Genocidal",
+        "Tinker",
+        "Taunting",
+        "Fatiguing",
+        "Mysterious",
+        "Wise",
+        "Junk Food",
+        "Equilibrium",
+        "Breakdown",
+        "Flanking",
+        "Furnace",
+        "Inaccurate",
+        "Brief Respite",
+        "Blunted",
+        "Caroming",
+        "Lucky",
+        "Lunging",
+        "Ruthless",
+        "Confused",
+        "Trophy-taker's",
+        "Imp Souled",
+        "Enlightened",
+        "Turtling",
+        "Undead Bait",
+        "Enhanced Efficient",
+        "Ultimatums",
+        "Fortune",
+        "Cautious",
+        "Dragon Slayer",
+        "Looting",
+        "Profane",
+        "Bulwark",
+        "Mobile",
+        "No effect",
+        "Scavenging",
+        "Impatient",
+        "Charitable",
+        "Aftershock",
+        "Brassican",
+        "Glow Worm",
+        "Absorbative",
+        "Polishing",
+        "Biting",
+        "Spendthrift",
+        "Shield Bashing",
+        "Demon Bait",
+        "Demon Slayer",
+        "Precise",
+        "Clear Headed",
+        "Energising",
+        "Cheapskate",
+        "Undead Slayer",
+        "Invigorating",
+        "Antitheism",
+        "Preparation",
+        "Venomblood",
+        "Planted Feet",
+        "Honed",
+        "Pyromaniac",
+        "Talking",
+        "Mediocrity",
+        "Prosper",
+        "Butterfingers",
+        "Committed",
+        "Crystal Shield",
+        "Hallucinogenic",
+        "Refined",
+        "Dragon Bait",
+        "Enhanced Devoted",
+        "Crackling"
+    ]
+}
