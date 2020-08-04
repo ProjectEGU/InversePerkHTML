@@ -46,7 +46,7 @@ interface AppState {
     searchGizmoResults: GizmoResult[]
 }
 /**
- * // to enumerate perks of gizmo type: Object.keys(CalcData.perkToComp[gizmoType])
+ * // to enumerate perks of gizmo type: CalcData.perkList[gizmoType]
  * // to get info of a perk: CalcData.perkInfo[perkName]
  */
 /**
@@ -85,7 +85,9 @@ interface AppState {
  * [x] if change to ancient gizmo, alert if rank exceeds max! - we just delete it now cuz it's not valid.
  * [ ] add information signs for combolist instruction; explanation of what is a positive secondary perk
  * [ ] unselect label in the dropdown
- * 
+ * [ ] offer to switch to the correct gizmo type(s),
+ *     if an invalid perk for the current gizmo type is entered (when applicable)
+ * [ ] remove ancient perks from search results if not using ancient gizmo
  * [x] transition animation
  * 
  * [x] close dropdown on selection of option
@@ -101,6 +103,14 @@ interface AppState {
  * quantities first, and terminate the search upon finding enough 100% gizmos
  * 
  * [ ] (?) offer to upgrade to ancient gizmo if a gizmo is impossible to make 
+ * 
+ * [ ] proactive filtering method: when expanding arrangements, evaluate highest potentialGizmoChance
+ * results first, then add it to the top N, and retroactively cancel out any results with potentialGizmoChance
+ * less than the Nth gizmo
+ * [ ] is there a way to tell if the optimal invention lvl will be 137 or 1 based on ranges alone?
+ * 
+ * [ ] add back assertions that potentialGizmoChance >= gizmoChance
+ * [ ] slider for ancient gizmo / regular gizmo
  */
 
 class App extends React.Component<{}, AppState> {
@@ -342,16 +352,16 @@ class App extends React.Component<{}, AppState> {
         // console.time("initSearchData");
         this.PerkSearchData = {
             [GizmoType.Armour]: {
-                0: Object.keys(CalcData.perkToComp['armour']).map(x => this.dropdownOptionFn(x, false)),
-                1: Object.keys(CalcData.perkToComp['armour']).map(x => this.dropdownOptionFn(x, true)),
+                0: CalcData.perkList['armour'].map(x => this.dropdownOptionFn(x, false)),
+                1: CalcData.perkList['armour'].map(x => this.dropdownOptionFn(x, true)),
             },
             [GizmoType.Weapon]: {
-                0: Object.keys(CalcData.perkToComp['weapon']).map(x => this.dropdownOptionFn(x, false)),
-                1: Object.keys(CalcData.perkToComp['weapon']).map(x => this.dropdownOptionFn(x, true)),
+                0: CalcData.perkList['weapon'].map(x => this.dropdownOptionFn(x, false)),
+                1: CalcData.perkList['weapon'].map(x => this.dropdownOptionFn(x, true)),
             },
             [GizmoType.Tool]: {
-                0: Object.keys(CalcData.perkToComp['tool']).map(x => this.dropdownOptionFn(x, false)),
-                1: Object.keys(CalcData.perkToComp['tool']).map(x => this.dropdownOptionFn(x, true)),
+                0: CalcData.perkList['tool'].map(x => this.dropdownOptionFn(x, false)),
+                1: CalcData.perkList['tool'].map(x => this.dropdownOptionFn(x, true)),
             },
         };
         // console.timeEnd("initSearchData");
@@ -569,7 +579,7 @@ class App extends React.Component<{}, AppState> {
 
                     </Form.Group>
                     {/** Allow positive secondary perk checkbox */}
-                    <Form.Group widths={12}>
+                    <Form.Group inline widths={12}>
                         <Form.Checkbox
                             label='Allow positive secondary perks' // gray out if double slot or two perks in search? also show info for list of excluded perks?
                             checked={allowPositiveSecondPerk}

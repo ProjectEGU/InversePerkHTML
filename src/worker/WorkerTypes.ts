@@ -35,6 +35,12 @@ export enum GizmoType {
 }
 
 export interface CalcDataType {
+    perkList: {
+        tool: string[],
+        weapon: string[],
+        armour: string[],
+    }
+
     perkToComp: {
         tool: { [perkName: string]: string[], },
         weapon: { [perkName: string]: string[], },
@@ -60,7 +66,6 @@ export interface CalcDataType {
     compList: {
         components: { name: string, cat: number }[],
     },
-    perkList: string[]
 }
 
 
